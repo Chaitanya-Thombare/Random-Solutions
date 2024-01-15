@@ -1,0 +1,12 @@
+What to put in the excel sheet?
+    X - Expense Name(Dont bother)
+    Cost - Self Explanatory
+    Sponsor - The person who has paid that expense
+    A,B,C,D - People who have consumed the product of that expense.
+
+What is the 4th column exactly?
+    The name of column should be comma seperated values of all the individuals involved.
+    If 3 people are involved, you can put their names, like "Ajay, Bajaj, Chandu" in the column name.
+    If an expense is consumed by 'n' people, the forth column value for that expense shall have 'n' comma seperated names.
+    Make sure to refer those individuals exactly the same way as in the column name, and in sponsor column as well.
+    I prefer initials instead of names because its easy. So should you.
